@@ -1,0 +1,128 @@
+﻿/* Style class for OskariExamplesBundle */
+
+.oskari__challenge__examples {
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+.oskari__challenge__examples__search_container {
+	background-color: #000000;
+    width: 98%;
+    height: 8%;
+    color: #ffffff;
+    padding:1%;
+    min-height: 60px;
+}
+
+.oskari__challenge__examples__results{
+	height: 88%;
+	overflow: auto;
+}
+
+.oskari__challenge__examples__search__container__title {
+	font-size: 20px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+.oskari__challenge__examples__search__container__inputs {
+	margin-top:1%;
+}
+
+.oskari__challenge__examples__search__container__inputs__input {
+   	min-width: 200px;
+    width: 20%;
+}
+
+.oskari__challenge__examples__search__container__inputs_reset{
+    background-color: transparent;
+    background-image: url("../images/icon_close.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: medium none;
+    cursor: pointer;
+    height: 16px;
+    left: -19px;
+    position: relative;
+    top: 1px;
+    width: 16px;
+}
+
+.oskari__challenge__examples__search__container__inputs__clear{
+	background: url('../images/icon_close.png') no-repeat;
+    background-position: center center;
+    height:16px;
+    width:16px;
+}
+
+.oskari__examples_margintop {
+	margin-top:10px;
+}
+
+.oskari__examples_paddingleft {
+    padding-left:10px;
+}
+
+.oskari__examples_paddingright {
+    padding-right:10px;
+}
+
+.oskari__challenge__examples__view__demo__site{
+	position:absolute;
+	bottom:4px;
+	left:4p
+}
+
+.oskari__challenge__examples__view{ 
+	border:1px solid #c0c0c0;
+	width:200px;
+	float:left;
+	font-size:14px;
+	margin:10px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    cursor: pointer;
+    position:relative;
+    color: #555555;
+}
+.oskari__challenge__examples__view:hover{ 
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+.oskari__challenge__examples__view__image {
+	border-bottom: 1px solid #c0c0c0;
+	height:120px;
+}
+
+.oskari__challenge__examples__view__content {
+	padding:10px;
+}
+
+.oskari__challenge__examples__view__title {
+	font-size:16px;
+	font-weight:bold;
+	padding-left: 4px;
+}
+
+.oskari__challenge__examples__view__keywords {
+	margin-left:5px;
+}
+
+.oskari__challenge__examples__noresults {
+	padding:10px;
+	display: none;
+}
+
+.oskari__challenge__examples__view__demo__site__url {
+    text-decoration: none;
+    color: #4888A5;
+}
+
+.oskari__challenge__examples__view__demo__site__url:hover {
+	color: #7EB8D3;
+}

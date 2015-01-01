@@ -1,0 +1,760 @@
+{
+    "examples": [
+    {
+        "fi": {
+            "imageURL": "pages/bundle-example/thumb.png",
+            "demoURL": "pages/bundle-example/example.html",
+            "shortDescription": "Esimerkkimäärittely bundlelle, jossa mukana myös koodiesimerkki.",
+            "keywords": ["bundle"],
+            "title": "Esimerkki määrittely bundlelle"
+        },
+        "en": {
+            "imageURL": "pages/bundle-example/thumb.png",
+            "demoURL": "pages/bundle-example/example.html",
+            "shortDescription": "Example shows basic functionalities on bundle.",
+            "keywords": ["bundle"],
+            "title": "Sample defination for a bundle"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "pages/myfirst-sample/thumb.png",
+            "demoURL": "../../sample/myfirst/index.html",
+            "shortDescription": "Ensimmäinen esimerkki. 'Hello World!' teksti näytetään alert-ikkunassa.",
+            "keywords": ["ensimmäinen","esimerkki"],
+            "title": "Ensimmäinen esimerkki"
+        },
+        "en": {
+            "imageURL": "pages/myfirst-sample/thumb.png",
+            "demoURL": "../../sample/myfirst/index.html",
+            "shortDescription": "My first sample. Alert shows 'Hello World!' text.",
+            "keywords": ["first","sample"],
+            "title": "My First sample"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "pages/mysecond-sample/thumb.png",
+            "demoURL": "../../sample/mysecond/index.html",
+            "shortDescription": "Toinen esimerkki. Esimerkissä näytetään kartta ja mittakaavajana.",
+            "keywords": ["toinen", "esimerkki"],
+            "title": "Toinen esimerkki"
+        },
+        "en": {
+            "imageURL": "pages/mysecond-sample/thumb.png",
+            "demoURL": "../../sample/mysecond/index.html",
+            "shortDescription": "My second sample. Bundle shows only map and scale bar.",
+            "keywords": ["second", "sample"],
+            "title": "My Second sample"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "pages/mythird-sample/thumb.png",
+            "demoURL": "../../sample/mythird/index.html",
+            "shortDescription": "Kolmas esimerkki. 'Hello World' tulee valikkoon vasemmalle (tile) ja kun sitä klikataan niin avautuu 'Hello World' -flyout.",
+            "keywords": ["kolmas", "esimerkki", "flyout", "tile"],
+            "title": "Kolmas esimerkki"
+        },
+        "en": {
+            "imageURL": "pages/mythird-sample/thumb.png",
+            "demoURL": "../../sample/mythird/index.html",
+            "shortDescription": "My third sample. 'Hello World' text appears to left side menu tile and when clicked it it's open 'Hello World' -flyout.",
+            "keywords": ["third", "sample", "flyout", "tile"],
+            "title": "Kolmas esimerkki"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "pages/full-sample/thumb.png",
+            "demoURL": "../../sample/full/packed.html",
+            "shortDescription": "Koko kartta esimerkki.",
+            "keywords": ["koko", "esimerkki"],
+            "title": "Koko Oskari.org esimerkki"
+        },
+        "en": {
+            "imageURL": "pages/full-sample/thumb.png",
+            "demoURL": "../../sample/full/packed.html",
+            "shortDescription": "Full sample. Full Oskari.org is loaded.",
+            "keywords": ["full", "sample"],
+            "title": "Full sample"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "pages/arcgis-sample/thumb.png",
+            "demoURL": "../../sample/arcgis/index.html",
+            "shortDescription": "ArcGIS esimerkki. Näytetään ArcGIS tasojen lataus.",
+            "keywords": ["arcgis", "esimerkki"],
+            "title": "ArcGIS esimerkki"
+        },
+        "en": {
+            "imageURL": "pages/arcgis-sample/thumb.png",
+            "demoURL": "../../sample/arcgis/index.html",
+            "shortDescription": "ArcGIS sample. Shows ArcGIS layer sample.",
+            "keywords": ["arcgis", "sample"],
+            "title": "ArcGIS sample"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "pages/tarkkailija-sample/thumb.png",
+            "demoURL": "../../sample/tarkkailija/index.html",
+            "shortDescription": "Tarkkailija esimerkki. Näyttää ainoastaan kartan, mittakaavan ja käsi työkalun.",
+            "keywords": ["tarkkailija", "esimerkki"],
+            "title": "Tarkkailija esimerkki"
+        },
+        "en": {
+            "imageURL": "pages/tarkkailija-sample/thumb.png",
+            "demoURL": "../../sample/tarkkailija/index.html",
+            "shortDescription": "Tarkkailija sample. Shows only map, scalebar and hand tool.",
+            "keywords": ["tarkkailija", "sample"],
+            "title": "Tarkkailija sample"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "pages/wmts-sample/thumb.png",
+            "demoURL": "../../sample/wmts/index.html",
+            "shortDescription": "WMTS esimerkki. Näyttää WMTS tason lataus esimerkin.",
+            "keywords": ["WTMS", "esimerkki"],
+            "title": "WMTS esimerkki"
+        },
+        "en": {
+            "imageURL": "pages/wmts-sample/thumb.png",
+            "demoURL": "../../sample/wmts/index.html",
+            "shortDescription": "WMTS sample. Shows WMTS layer sample.",
+            "keywords": ["WTMS", "esimerkki"],
+            "title": "WMTS esimerkki"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },    
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },    
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },  
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    }, 
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },  
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },  
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },  
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },  
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },  
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    }, 
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    }, 
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },  
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },    
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },  
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },   
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },    
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    }, 
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    },
+    {
+        "fi": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_fi.html",
+            "shortDescription": "Esimerkki kuvaus",
+            "keywords": ["oskari", "demo", "challenge", "esimerkki"],
+            "title": "Esimerkki"
+        },
+        "en": {
+            "imageURL": "../../../resources/challenge/bundle/oskari-examples/images/noimage.png",
+            "demoURL": "pages/sample/example_en.html",
+            "shortDescription": "Example description.",
+            "keywords": ["oskari", "demo", "challenge", "example"],
+            "title": "Example"
+        },
+        "sv": {},
+        "defaultLanguage" : "en"
+    }
+    ]
+}

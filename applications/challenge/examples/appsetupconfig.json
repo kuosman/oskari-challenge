@@ -1,0 +1,25 @@
+{
+    "startupSequence": [
+    {
+        "title": "OskariExamples",
+        "en": "OskariExamples",
+        "fi": "OskariExamples",
+        "sv": "OskariExamples",
+        "bundleinstancename": "oskari-examples",
+        "bundlename": "oskari-examples",
+        "instanceProps": {},
+        "metadata": {
+            "Import-Bundle": {
+                "oskari-examples": {
+                    "bundlePath": "../../../packages/challenge/bundle/"
+                }
+            },
+            "Require-Bundle-Instance": []
+        }
+    }],
+    "configuration": {
+        "oskari-examples": {
+            "conf": {}
+        }
+    }
+}
