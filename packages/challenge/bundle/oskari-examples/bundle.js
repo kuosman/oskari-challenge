@@ -34,24 +34,24 @@ Oskari.clazz.define("Oskari.challenge.bundle.oskari.OskariExamplesBundle", funct
             },
 			{
 				"type" : "text/javascript",
-				"src" : "../../../../bundles/challenge/bundle/oskari-examples/instance.js"
+				"src" : "../../../../bundles/challenge/oskari-examples/instance.js"
 			},
 			{
 				"type" : "text/css",
-				"src" : "../../../../resources/challenge/bundle/oskari-examples/css/style.css"
+				"src" : "../../../../bundles/challenge/oskari-examples/resources/css/style.css"
 			}, 
 			{
 				"language" : "fi",
 				"type" : "text/javascript",
-				"src" : "../../../../bundles/challenge/bundle/oskari-examples/locale/fi.js"
+				"src" : "../../../../bundles/challenge/oskari-examples/resources/locale/fi.js"
 			},{
 				"language" : "en",
 				"type" : "text/javascript",
-				"src" : "../../../../bundles/challenge/bundle/oskari-examples/locale/en.js"
+				"src" : "../../../../bundles/challenge/oskari-examples/resources/locale/en.js"
 			},{
 				"language" : "sv",
 				"type" : "text/javascript",
-				"src" : "../../../../bundles/challenge/bundle/oskari-examples/locale/sv.js"
+				"src" : "../../../../bundles/challenge/oskari-examples/resources/locale/sv.js"
 			}],
 		"resources" : []
 	},
@@ -63,8 +63,8 @@ Oskari.clazz.define("Oskari.challenge.bundle.oskari.OskariExamplesBundle", funct
 				"Name" : "Marko Kuosmanen",
 				"Organisation" : "",
 				"Temporal" : {
-					"Start" : "2014",
-					"End" : "2014"
+					"Start" : "2015",
+					"End" : "2015"
 				},
 				"Copyleft" : {
 					"License" : {
